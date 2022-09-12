@@ -6,7 +6,7 @@
 
 📹 In my spare time, I'm a YouTube content creator where I talk about hardware, software, hacking, technology, programming, and home automation.
 
-🏖️ I'm an Italian guy (he/him) and a live in Bari, a beautiful city in the south of Italy.
+🏖️ I'm an Italian guy (he/him) and I live in Bari, a beautiful city in the south of Italy.
 
 📫 How to reach me: 
 <div id="badges" align="center">
