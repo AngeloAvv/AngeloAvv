@@ -1,6 +1,6 @@
 ## Hi there. I'm Angelo 👋
 
-💻 I'm a perfectionist and proficient in developing mobile, web, desktop and IoT solutions. Software Architect by day and Freelance by night, I convert ideas into digital products. 
+💻 I'm a perfectionist and proficient in developing mobile, web, desktop, and IoT solutions. Software Architect by day and Freelance by night, I convert ideas into digital products. 
 
 🎓 I'm also a teacher: I help high school and university students in computer science and mathematics and I'm a trainer and consultant for [Fudeo](https://fudeo.it/), an online platform where people can learn programming in Flutter. 
 
@@ -27,11 +27,10 @@
 ---
 
 ### What's going on
-- 📱 I’m currently working as a Senior Mobile Engineer (Flutter) [@Stuart](https://stuart.com/)
 - 📈 I’m currently learning financial technical analysis
 - 👯 I’m looking to collaborate on new Flutter Desktop plugins
 - 🏋️ Lifting since 2018
-- 📚 I love reading books about self improvement, psychology, startups and finance
+- 📚 I love reading books about self-improvement, psychology, startups, and finance
 - 🤖 Playing with Arduino, Sensors and Embedded MCUs since 2010
 - 📺 TV Shows addicted
 
@@ -70,7 +69,7 @@ During these years I had the chance to work with a lot of technologies and frame
 ---
 
 ### Medium Articles
-I really enjoy sharing the knowledge across the internet. Generally I like to talk about Flutter, Software Engineering and Career. Feel free to follow me on Medium.
+I really enjoy sharing the knowledge across the internet. Generally, I like to talk about Flutter, Software Engineering, and Career. Feel free to follow me on Medium.
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@angeloavv/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@angeloavv/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@angeloavv/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@angeloavv/1" alt="Recent Article 1">
